@@ -717,7 +717,7 @@ Beyond Al-Khaser, the hypervisor detection article describes:
 
 ## 9. Code / DLL Injection Techniques (Al-Khaser – for completeness)
 
-> These are not “anti” checks but techniques Al-Khaser *uses* to inject code. Your VM/introspection tools may want to detect or simulate them.
+> These are not “anti” checks but techniques Al-Khaser *uses* to inject code. The VM/introspection tool may want to detect or simulate them.
 
 - **CreateRemoteThread**
 - **SetWindowsHookEx**
